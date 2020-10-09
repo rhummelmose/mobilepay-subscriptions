@@ -8,6 +8,10 @@
     "lint": "tslint -p tsconfig.json"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhummelmose/mobilepay-subscriptions.git"
+  },
   "dependencies": {
     "node-fetch": "^2.6.1"
   },

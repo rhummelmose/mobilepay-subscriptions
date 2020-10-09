@@ -27,5 +27,7 @@ const response = await client.createAgreement({
     ..
 });
 ```
+## API Reference
+Find the generated API reference [here](https://rhummelmose.github.io/mobilepay-subscriptions/)
 ## License
 mobilepay-subscriptions is licensed under a [MIT License](./LICENSE.md).
